@@ -120,7 +120,7 @@ export default function FeatureSection() {
 
         {/* BUTTONS */}
         <div className="w-full flex items-center gap-6 mt-10">
-          <button className="bg-[#1959AC] text-white px-6 py-3 rounded-lg shadow hover:bg-[#164c91] transition text-lg font-semibold flex items-center gap-1">
+          <button className="bg-[#1959AC] text-white px-6 py-3 shadow hover:bg-[#164c91] transition text-lg font-semibold flex items-center gap-1">
             Lorem Ipsum →
           </button>
 

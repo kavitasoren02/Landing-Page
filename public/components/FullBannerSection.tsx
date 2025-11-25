@@ -67,7 +67,7 @@ export default function FullBannerSection() {
           initial={{ opacity: 0, x: -200 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1.1, ease: "easeOut", delay: 0.6 }}
-          className="bg-white text-[#164c91] px-6 py-3 rounded-lg shadow transition text-lg font-semibold flex items-center gap-1 mt-20"
+          className="bg-white text-[#164c91] px-6 py-3  shadow transition text-lg font-semibold flex items-center gap-1 mt-20"
         >
           Lorem Ipsum →
         </motion.button>

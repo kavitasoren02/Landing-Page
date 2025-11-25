@@ -176,7 +176,7 @@ export default function QuoteSection() {
           viewport={{ once: true }}
           className="flex justify-center mt-8"
         >
-          <button className="bg-[#1959AC] text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#0e3d7f] flex items-center gap-2 text-lg">
+          <button className="bg-[#1959AC] text-white px-8 py-3 font-semibold hover:bg-[#0e3d7f] flex items-center gap-2 text-lg">
             Lorem Ipsum →
           </button>
         </motion.div>

@@ -63,7 +63,7 @@ export default function StoryCarousel() {
               {/* FLOATING CARD */}
               <div
                 className="
-                  absolute bg-white shadow-xl rounded-lg 
+                  absolute bg-white shadow-xl
 
                   /* Responsive padding */
                   p-4 sm:p-5 md:p-5 lg:p-4
